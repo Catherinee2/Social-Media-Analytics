@@ -1,4 +1,4 @@
-📊 Social Media Audience Analytics Dashboard – Power BI
+**📊 Social Media Audience Analytics Dashboard – Power BI**
 🎯 Project Overview
 
 This project focuses on analyzing social media engagement data to understand audience behavior and identify key drivers of engagement such as likes, shares, comments, and video views.
